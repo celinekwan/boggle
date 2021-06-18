@@ -5,15 +5,35 @@ The game of Boggle is played on a square board with random letters. The object i
 ### Dice Distribution
 Boggle Deluxe is played with a 5x5 grid whose 25 dice and letters are distributed according to this layout:
 
-AAAFRS&nbsp;&nbsp;&nbsp;&nbsp;AEEGMU&nbsp;&nbsp;&nbsp;&nbsp;CEIILT&nbsp;&nbsp;&nbsp;&nbsp;DHHNOT&nbsp;&nbsp;&nbsp;&nbsp;FIPRSY
+AAAFRS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+AEEGMU&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+CEIILT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+DHHNOT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+FIPRSY
 
-AAEEEE&nbsp;&nbsp;&nbsp;&nbsp;AEGMNN&nbsp;&nbsp;&nbsp;&nbsp;CEILPT&nbsp;&nbsp;&nbsp;&nbsp;DHLNOR&nbsp;&nbsp;&nbsp;&nbsp;GORRVW
+AAEEEE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+AEGMNN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+CEILPT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+DHLNOR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+GORRVW
 
-AAFIRS&nbsp;&nbsp;&nbsp;&nbsp;AFIRSY&nbsp;&nbsp;&nbsp;&nbsp;CEIPST&nbsp;&nbsp;&nbsp;&nbsp;EIIITT&nbsp;&nbsp;&nbsp;&nbsp;HIPRRY
+AAFIRS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+AFIRSY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+CEIPST&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+EIIITT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+HIPRRY
 
-ADENNN&nbsp;&nbsp;&nbsp;&nbsp;BJKQXZ&nbsp;&nbsp;&nbsp;&nbsp;DDLNOR&nbsp;&nbsp;&nbsp;&nbsp;EMOTTT&nbsp;&nbsp;&nbsp;&nbsp;NOOTUW
+ADENNN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+BJKQXZ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+DDLNOR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+EMOTTT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+NOOTUW
 
-AEEEEM&nbsp;&nbsp;&nbsp;&nbsp;CCNSTW&nbsp;&nbsp;&nbsp;&nbsp;DHHLOR&nbsp;&nbsp;&nbsp;&nbsp;ENSSSU&nbsp;&nbsp;&nbsp;&nbsp;OOOTTU
+AEEEEM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+CCNSTW&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+DHHLOR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ENSSSU&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+OOOTTU
 
 ## Game - Features and Frames
 ### Menu
